@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# programming languages
+![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
 <!--
 **den347fft/den347fft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
