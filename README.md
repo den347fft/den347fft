@@ -1,7 +1,7 @@
 * # Short BIO
    * ### My name Denis short Den, I'm Ukranian.
    * ### I know three programming languages and two languages hypertext markup
-   * ### I can speek Ukrain and English languge
+   * ### I can speek Ukrain and English 
 
 - # Programming languages
    - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
