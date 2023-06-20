@@ -1,17 +1,14 @@
-# programming languages
-![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-<!--
-**den347fft/den347fft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* # Short BIO
+   * ### My name Denis short Den, I'm Ukranian.
+   * ### I know three programming languages and two languages hypertext markup
+   * ### I can speek Ukrain and English languge
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # Programming languages
+   - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+- # Hypertext markup languages
+   - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+- # Languages
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" title="Ukrain" width="60" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/English_language.png" title="English" width="60" height="40"/>&nbsp;
