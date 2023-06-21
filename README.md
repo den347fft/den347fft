@@ -1,5 +1,5 @@
 * # Short BIO
-   * ### My name Denis short Den, I'm Ukranian.
+   * ### My name Denis short Den, I'm from Ukrain.
    * ### I know three programming languages and two languages hypertext markup
    * ### I can speek Ukranian and English 
 
